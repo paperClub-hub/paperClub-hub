@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 ### PaperClub
 
 - [PaperClub 资源站](https://github.com/paperClub-hub/paperClub_daily)
-- [eBOOK 电子书](https://github.com/user2items/eBook)
-- [Blog 源码](https://github.com/user2items/blog)
+- [eBOOK 电子书](https://github.com/paperClub-hub/eBooks)
+- [Blog 源码](https://github.com/paperClub-hub/blog)
+- [ImageColorizations 老照片颜色修复](https://github.com/paperClub-hub/ImageColorizations)
