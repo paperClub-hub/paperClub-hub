@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 你好，很高兴遇到你，这里是 PaperClub-Hub. 👋
+### 你好，这里是 PaperClub-Hub. 👋
 
 - 🌱 网站地址：<a href="http://www.infersite.com/"> **PaperClub** </a>
 - 👯 微信公众号：<font color=#0000FF > **paperClub** </font>
