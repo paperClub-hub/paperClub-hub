@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - [PaperClub 资源站](https://github.com/paperClub-hub/paperClub_daily)
 - [eBOOK 电子书](https://github.com/paperClub-hub/eBooks)
-- [Blog 源码, 支持前后端](https://github.com/paperClub-hub/blog)
+- [Blog 源码, 支持PC+手机，前+后端](https://github.com/paperClub-hub/blog)
 - [ImageColorizations 老照片颜色修复](https://github.com/paperClub-hub/ImageColorizations)
 - [超过50+语种NLP停止词](https://github.com/paperClub-hub/stopwords)
 <!-- - [chinese_clip](https://github.com/paperClub-hub/chinese_clip)
